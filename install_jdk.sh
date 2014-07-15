@@ -5,11 +5,19 @@
 #
 #       Filename:  install_jdk.sh
 #
-#    Description:  This is the snake program
+#    Description:  This script is used to install Oracle JDK in Ubuntu Linux systems;
+#                  it expects the archive file as it's input and the rest is automated.
+#                  Please be careful as it does not have many safeguards if you want 
+#                  to break things but it gets the job done...
+#                  
 #
 #        Version:  1.0
 #        Created:  07/15/2014 22:24:06
-#       Revision:  initial version
+#       Revision:  
+#               1.0: Initial commit
+#
+#               1.1: Typos n' stuff.
+#
 #          Shell:  bash      
 #
 #         Author:  Andrew Grammenos (andreas.grammenos@gmail.com) 
